@@ -1,0 +1,26 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.versionsBackup
+
+
+*.iml
+.idea/
+target/
+logs/
+log/
+
+# Eclipse project files #
+.settings
+.project
+.classpath
+target
+bin
+
+# STS #
+.apt_generated
+.factorypath
+.springBeans
